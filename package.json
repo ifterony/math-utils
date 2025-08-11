@@ -4,8 +4,12 @@
   "description": "A simple math utility library",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "jest"
   },
   "author": "Your Name",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
 }
