@@ -1,0 +1,11 @@
+{
+  "name": "math-utils",
+  "version": "1.0.0",
+  "description": "A simple math utility library",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
